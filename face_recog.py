@@ -1,6 +1,7 @@
 import dlib
 import cv2
 import pandas as pd
+import numpy as np
 import face_recognition
 from os import listdir
 from datetime import datetime
