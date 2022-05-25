@@ -1,6 +1,0 @@
-dlib
-cmake
-face_recognition
-opencv_python
-pandas
-streamlit
