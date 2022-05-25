@@ -1,3 +1,4 @@
+import dlib
 import cv2
 import pandas as pd
 import face_recognition
