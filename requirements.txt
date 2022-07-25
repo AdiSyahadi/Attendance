@@ -1,3 +1,4 @@
+python==3.8
 face_recognition
 opencv_python
 pandas
